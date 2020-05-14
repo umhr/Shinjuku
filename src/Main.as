@@ -1,4 +1,4 @@
-﻿package 
+package 
 {
     import flash.display.*;
     import flash.events.*;
@@ -41,7 +41,7 @@
 		/////
 		private var _mulitiLoader:MultiLoader;
 		private var _markBitmaps:Array;
-		
+		[SWF(backgroundColor=0x99CC66)]
         public function Main()
         {
 			_mulitiLoader = new MultiLoader("main");
